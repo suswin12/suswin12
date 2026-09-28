@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-link  ](https://www.linkedin.com/in/suswin12/)
+- 💼 LinkedIn: https://www.linkedin.com/in/suswin12/
 - 📧 Email: suswinsuswin23@gmail.com
 
 ---
