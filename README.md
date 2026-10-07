@@ -83,6 +83,21 @@
 - Integrated REST APIs and MySQL
 - Developed responsive application interfaces
 
+  ### 🔹 StockFlow
+TypeScript-based project focused on stock-related functionality.
+
+### 🔹 Visitor Pass Management
+MERN-based visitor pass management system.
+
+### 🔹 Logo Detection System
+A computer vision-based project for logo detection.
+
+### 🔹 BookNest
+Laravel-based book store application with admin dashboard and API integration.
+
+### 🔹 Portfolio
+Personal portfolio website showcasing my skills and projects.
+
 ---
 
 ## 🌐 Connect With Me
