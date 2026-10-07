@@ -83,7 +83,7 @@
 - Integrated REST APIs and MySQL
 - Developed responsive application interfaces
 
-  ### 🔹 StockFlow
+### 🔹 StockFlow
 TypeScript-based project focused on stock-related functionality.
 
 ### 🔹 Visitor Pass Management
